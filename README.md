@@ -23,5 +23,5 @@ I am an independent developer focused on creating fun, clean, and relaxing offli
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Finder-A1&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=ColorsFunGames&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
