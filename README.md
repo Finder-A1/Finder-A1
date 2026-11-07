@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi there, I'm Arun 👋
 
-<!--
-**Finder-A1/Finder-A1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an independent developer focused on creating fun, clean, and relaxing offline mobile games using Python and modern UI frameworks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project
+
+* **[Colors Fun](https://github.com/ColorsFunGames/colors-fun)** — A vibrant, modern color-sorting puzzle game built with Python and KivyMD, optimized for Android devices.
+  * *Playable and downloadable via GitHub Releases and [itch.io](https://colorsfungames.itch.io).*
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** Python
+* **Frameworks:** Kivy, KivyMD
+* **Build Tools:** Buildozer (Android APK compilation), PyInstaller
+* **Platforms:** Android, GitHub, itch.io
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ColorsFunGames&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
