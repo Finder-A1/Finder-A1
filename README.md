@@ -6,8 +6,8 @@ I am an independent developer focused on creating fun, clean, and relaxing offli
 
 ### 🚀 Featured Project
 
-* **[Colors Fun](https://github.com/ColorsFunGames/colors-fun)** — A vibrant, modern color-sorting puzzle game built with Python and KivyMD, optimized for Android devices.
-  * *Playable and downloadable via GitHub Releases and [itch.io](https://colorsfungames.itch.io).*
+* **[Colors Fun](https://github.com/Finder-A1/colors-fun)** — A vibrant, modern color-sorting puzzle game built with Python and KivyMD, optimized for Android devices.
+  * *Playable and downloadable via GitHub Releases and [itch.io](https://business-man3.itch.io).*
 
 ---
 
@@ -23,5 +23,5 @@ I am an independent developer focused on creating fun, clean, and relaxing offli
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ColorsFunGames&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Finder-A1&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
