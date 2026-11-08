@@ -6,7 +6,7 @@ I am an independent developer focused on creating fun, clean, and relaxing offli
 
 ### 🚀 Featured Project
 
-* **[Colors Fun](https://github.com/Finder-A1/colors-fun)** — A vibrant, modern color-sorting puzzle game built with Python and KivyMD, optimized for Android devices.
+* **[Colors Fun](https://github.com/Arun-Lab1/colors-fun)** — A vibrant, modern color-sorting puzzle game built with Python and KivyMD, optimized for Android devices.
   * *Playable and downloadable via GitHub Releases and [itch.io](https://business-man3.itch.io).*
 
 ---
@@ -23,5 +23,5 @@ I am an independent developer focused on creating fun, clean, and relaxing offli
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Finder-A1&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arun-Lab1&theme=radical" alt="GitHub Streak" />
 </p>
