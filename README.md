@@ -7,7 +7,7 @@ I am an independent developer focused on creating fun, clean, and relaxing offli
 ### 🚀 Featured Project
 
 * **[Colors Fun](https://github.com/Arun-Lab1/colors-fun)** — A vibrant, modern color-sorting puzzle game built with Python and KivyMD, optimized for Android devices.
-  * *Playable and downloadable via GitHub Releases and [itch.io](https://business-man3.itch.io).*
+  * *Playable and downloadable via GitHub Releases and [itch.io](https://arun-lab1.itch.io).*
 
 ---
 
